@@ -1,9 +1,12 @@
 <h1>Hi, I'm Ryan! <br/><a href="https://www.linkedin.com/in/ryanprimeau/">Cybersecurity Student</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Personal Projects:</h2>
 
-- <b>Comprehensive Payroll Calculator</b>
-  - [Practicing Python](https://github.com/ryan-primeau/payroll_calculator)
+- <b>Practicing Python</b>
+  - [Payroll Calculator](https://github.com/ryan-primeau/payroll_calculator)
+
+- <b>Front-End Web Design</b>
+  - [E-Commerce Website](https://github.com/ryan-primeau/shopping-website)
 
 
 <h2> 🤳 Connect with me:</h2>
