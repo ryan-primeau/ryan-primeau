@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Comprehensive Payroll Calculator</b>
-  - [Praciting Python](https://github.com/ryan-primeau/payroll_calculator)
+  - [Practicing Python](https://github.com/ryan-primeau/payroll_calculator)
 
 
 <h2> 🤳 Connect with me:</h2>
