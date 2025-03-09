@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
+- <b>Cybersecurity</b>
+  - [Azure Home SOC – Cloud-Based Honeypot & Sentinel Integration](https://github.com/ryan-primeau/honeypot-attack-map)
+    
 - <b>Practicing Python</b>
   - [Payroll Calculator](https://github.com/ryan-primeau/payroll_calculator)
 
